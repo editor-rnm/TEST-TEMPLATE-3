@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT, UPDATE ON public.missing_product_reports TO anon, authenticated;
